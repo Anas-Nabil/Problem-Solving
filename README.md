@@ -47,11 +47,3 @@ Prompts the user to enter a number between 1 and 7 and prints the corresponding 
 If the input is not in this range, an error message is displayed.
 
 ---
-
-## 💻 How to Compile and Run
-
-You can compile any program using `g++`. Example:
-
-```bash
-g++ "Even or Odd Number Checker.cpp" -o evenodd
-./evenodd

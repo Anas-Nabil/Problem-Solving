@@ -115,21 +115,6 @@ Output: 650
 
 ---
 
-## How to Compile
-You can compile any of these programs using g++:
-
-```bash
-g++ "filename.cpp" -o program
-./program
-```
-
-For example:
-```bash
-g++ "1. Add .cpp" -o add
-./add
-```
-
----
 
 ## License
 This repository is shared for learning purposes. Feel free to use and adapt.

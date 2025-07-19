@@ -32,3 +32,6 @@ To run this project on your local machine:
    git clone https://github.com/your-username/flutter-signup-page.git
    cd flutter-signup-page
 
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-20 012611" src="https://github.com/user-attachments/assets/170d6f18-eef4-4083-9e9d-9607735621e9" />

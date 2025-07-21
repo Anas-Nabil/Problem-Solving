@@ -1,6 +1,6 @@
-# 📱 Auth Screens (Flutter)
+# 🔐 Flutter Authentication UI
 
-These screens are created using Flutter, featuring a clean layout built with `Row`, `Column`, `Container`, and `TextField` widgets. The design includes intuitive icons and smooth navigation for a better user experience.
+This project showcases a set of authentication screens built with Flutter, featuring a clean and modern layout using core widgets like `Column`, `Container`, and `TextField`. The design emphasizes user-friendly navigation and visual clarity.
 
 ---
 
@@ -35,10 +35,6 @@ These screens are created using Flutter, featuring a clean layout built with `Ro
 ### 🔆 Splash Screen
 - First screen shown on app launch.
 - Displays app logo or branding for a few seconds.
-
-### 🚀 Onboarding Screen
-- Introduces key features of the app.
-- Swipe or tap through onboarding walkthroughs.
 
 ### 📝 Sign Up Screen
 - Collects email, username, and password from new users.

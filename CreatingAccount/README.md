@@ -11,16 +11,16 @@ This project showcases a set of authentication screens built with Flutter, featu
     <td align="center"><strong>🧭 Splash Screen</strong><br>
       <img width="250" alt="Splash Screen" src="https://github.com/user-attachments/assets/3d4d3fa8-5d31-4ccc-8dd3-9813cf2c3c90" />
     </td>
-    <td align="center"><strong>🔐 Login Screen</strong><br>
-      <img width="250" alt="Login Screen" src="https://github.com/user-attachments/assets/b172c5a4-ecfd-418b-84f9-c34d1963d00b" />
+    <td align="center"><strong>📝 Sign Up Screen</strong><br>
+      <img width="250" alt="Sign Up Screen" src="https://github.com/user-attachments/assets/b1946ac0-98aa-482e-9bba-d8fd112f480b" />
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td align="center"><strong>📝 Sign Up Screen</strong><br>
-      <img width="250" alt="Sign Up Screen" src="https://github.com/user-attachments/assets/b1946ac0-98aa-482e-9bba-d8fd112f480b" />
+   <td align="center"><strong>🔐 Login Screen</strong><br>
+      <img width="250" alt="Login Screen" src="https://github.com/user-attachments/assets/b172c5a4-ecfd-418b-84f9-c34d1963d00b" />
     </td>
     <td align="center"><strong>🔢 OTP Screen</strong><br>
       <img width="250" alt="OTP Screen" src="https://github.com/user-attachments/assets/e90917e8-b4cb-472b-b460-99b2990ae5f7" />
@@ -52,34 +52,34 @@ This project showcases a set of authentication screens built with Flutter, featu
 
 ## ✅ Features
 
-- 📐 **Structured Layout**  
-  Uses `Row` and `Column` widgets for clean and responsive layout.
+- **Clean Layout**  
+  Screens are structured using columns and spacing elements for a neat and responsive design.
 
-- 🔲 **Custom Containers**  
-  Containers wrap inputs and buttons for styling, padding, and spacing.
+- **Styled Containers**  
+  Input fields and buttons are enclosed in styled containers to enhance visual appeal.
 
-- ⌨️ **Input Fields**  
-  `TextField` widgets for user input (email, password, OTP).
+- **Simple Inputs**  
+  Includes fields for entering email, password, and OTP codes.
 
-- 🎨 **Icon Integration**  
-  Icons like `Icons.email`, `Icons.lock`, and `Icons.person` used with `prefixIcon`.
+- **Icon Support**  
+  Visual icons are used alongside inputs to guide user interaction.
 
-- 🔁 **Smooth Navigation**  
-  Navigation handled with `Navigator.push()` and `Navigator.pop()` for screen transitions.
+- **Easy Navigation**  
+  Smooth screen transitions provide a fluid user experience.
 
 ---
 
 ## 📦 Packages Used
 
 - [`flutter_otp_text_field`](https://pub.dev/packages/flutter_otp_text_field)  
-  Used for OTP input UI with stylized digit fields and `onCompleted` callback.
+  Provides an easy-to-use UI for OTP entry with stylized number boxes and completion handling.
 
 ---
 
 ## 📌 Notes
 
-- This UI is fully built with Flutter and can be easily integrated with Firebase or any backend for authentication.
-- Screens are modular and follow clean design principles.
+- This UI is built entirely with Flutter and can be integrated with Firebase or any custom backend.
+- The structure is modular and easy to extend or modify.
 
 ---
 

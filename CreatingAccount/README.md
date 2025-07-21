@@ -5,14 +5,14 @@ These screens are created using Flutter, featuring a clean layout built with Row
 <img width="250" alt="Screenshot 2025-07-21 042203" src="https://github.com/user-attachments/assets/3d4d3fa8-5d31-4ccc-8dd3-9813cf2c3c90" /> </td> <td align="center">
  </td> </tr> </table>
 
-<table> <tr> <td align="center"><strong>🔐 Login Screen</strong><br><img width="413" height="855" alt="Screenshot 2025-07-21 042237" src="https://github.com/user-attachments/assets/b172c5a4-ecfd-418b-84f9-c34d1963d00b" />
+<table> <tr> <td align="center"><strong>🔐 Login Screen</strong><br><img width="250" alt="Screenshot 2025-07-21 042237" src="https://github.com/user-attachments/assets/b172c5a4-ecfd-418b-84f9-c34d1963d00b" />
  </td> <td align="center"><strong>📝 Sign Up Screen</strong><br><img width="250" alt="Screenshot 2025-07-21 042423" src="https://github.com/user-attachments/assets/b1946ac0-98aa-482e-9bba-d8fd112f480b" /> </td> </tr> </table>
 
 <table> 
   <tr> 
     <td align="center">
       <strong>🔢 OTP Screen</strong><br> 
-      <img width="405" height="848" alt="Screenshot 2025-07-21 041630" src="https://github.com/user-attachments/assets/e90917e8-b4cb-472b-b460-99b2990ae5f7" />
+      <img width="250"  alt="Screenshot 2025-07-21 041630" src="https://github.com/user-attachments/assets/e90917e8-b4cb-472b-b460-99b2990ae5f7" />
 
     </td> 
   </tr> 

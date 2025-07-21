@@ -2,10 +2,10 @@
 These screens are created using Flutter, featuring a clean layout built with Row, Column, Container, and TextField widgets. The design includes intuitive icons and smooth navigation for a better user experience.
 
 <table> <tr> <td align="center"><strong>🧭 Splash Screen</strong><br>
-<img width="250" alt="Screenshot 2025-07-21 042203" src="https://github.com/user-attachments/assets/3d4d3fa8-5d31-4ccc-8dd3-9813cf2c3c90" /> </td> <td align="center"><strong>🚀 On boarding Screen</strong><br> <img width="250" alt="Screenshot 2025-07-21 042423" src="https://github.com/user-attachments/assets/b1946ac0-98aa-482e-9bba-d8fd112f480b" />
+<img width="250" alt="Screenshot 2025-07-21 042203" src="https://github.com/user-attachments/assets/3d4d3fa8-5d31-4ccc-8dd3-9813cf2c3c90" /> </td> <td align="center">
  </td> </tr> </table>
 
-<table> <tr> <td align="center"><strong>🔐 Login Screen</strong><br> <img src="https://github.com/user-attachments/assets/faaf7a09-3bf8-45f4-8e4b-106209b423c1" width="250"/> </td> <td align="center"><strong>📝 Sign Up Screen</strong><br> <img src="https://github.com/user-attachments/assets/34f76d28-da3b-4600-bae5-1656acb70766" width="250"/> </td> </tr> </table>
+<table> <tr> <td align="center"><strong>🔐 Login Screen</strong><br> <img src="https://github.com/user-attachments/assets/faaf7a09-3bf8-45f4-8e4b-106209b423c1" width="250"/> </td> <td align="center"><strong>📝 Sign Up Screen</strong><br><img width="250" alt="Screenshot 2025-07-21 042423" src="https://github.com/user-attachments/assets/b1946ac0-98aa-482e-9bba-d8fd112f480b" /> </td> </tr> </table>
 
 <table> 
   <tr> 

@@ -1,7 +1,8 @@
 # 🔐 Flutter Authentication UI
 
-This project showcases a set of authentication screens built with Flutter, featuring a clean and modern layout using core widgets like `Column`, `Container`, and `TextField`. The design emphasizes user-friendly navigation and visual clarity.
+This project showcases a set of authentication screens built with Flutter, featuring a clean and modern layout using core widgets like `Column`, `Container`, `TextField`, and `ListView`. The design emphasizes user-friendly navigation, visual clarity, and dynamic screen transitions.
 
+After completing the authentication process (sign up, login, and OTP verification), the user is navigated to a custom-designed **Home Screen**.
 ---
 
 ## 🖼️ UI Preview
@@ -12,18 +13,21 @@ This project showcases a set of authentication screens built with Flutter, featu
       <img width="250" alt="Splash Screen" src="https://github.com/user-attachments/assets/3d4d3fa8-5d31-4ccc-8dd3-9813cf2c3c90" />
     </td>
     <td align="center"><strong>📝 Sign Up Screen</strong><br>
-      <img width="250" alt="Sign Up Screen" src="https://github.com/user-attachments/assets/b1946ac0-98aa-482e-9bba-d8fd112f480b" />
+      <img width="250" alt="Sign Up Screen" src="https://github.com/user-attachments/assets/a9ed6acc-6da3-41e9-8caf-0e5e3666d1b1" />
+    </td>
+    <td align="center"><strong>🔐 Login Screen</strong><br>
+      <img width="250" alt="Login Screen" src="https://github.com/user-attachments/assets/11a2be32-406c-47a9-a986-8fc75737fa3d" />
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-   <td align="center"><strong>🔐 Login Screen</strong><br>
-      <img width="250" alt="Login Screen" src="https://github.com/user-attachments/assets/b172c5a4-ecfd-418b-84f9-c34d1963d00b" />
+   <td align="center"><strong>🔢 OTP Screen</strong><br>
+      <img width="250" alt="OTP Screen" src="https://github.com/user-attachments/assets/e94e2677-b480-4970-93ef-f441c063bcb2" />
     </td>
-    <td align="center"><strong>🔢 OTP Screen</strong><br>
-      <img width="250" alt="OTP Screen" src="https://github.com/user-attachments/assets/e90917e8-b4cb-472b-b460-99b2990ae5f7" />
+    <td align="center"><strong>🏠 Home Screen</strong><br>
+      <img width="250" alt="Home Screen" src="https://github.com/user-attachments/assets/fe813a0f-b787-48bf-8192-bcbc4f3132d9" />
     </td>
   </tr>
 </table>
@@ -48,6 +52,11 @@ This project showcases a set of authentication screens built with Flutter, featu
 - User enters the one-time password sent to them.
 - Built using the `flutter_otp_text_field` package.
 
+### 🏠 Home Screen
+- Displayed after successful login/OTP verification.
+- Contains an app bar and scrollable list view.
+- List items include an image and text in styled cards.
+
 ---
 
 ## ✅ Features
@@ -67,6 +76,9 @@ This project showcases a set of authentication screens built with Flutter, featu
 - **Easy Navigation**  
   Smooth screen transitions provide a fluid user experience.
 
+- **Custom ListView**  
+  The home screen showcases dynamic content in a scrollable format.
+
 ---
 
 ## 📦 Packages Used
@@ -75,12 +87,3 @@ This project showcases a set of authentication screens built with Flutter, featu
   Provides an easy-to-use UI for OTP entry with stylized number boxes and completion handling.
 
 ---
-
-## 📌 Notes
-
-- This UI is built entirely with Flutter and can be integrated with Firebase or any custom backend.
-- The structure is modular and easy to extend or modify.
-
----
-
-### ⭐ Feel free to fork, clone, and customize the screens as needed!

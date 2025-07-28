@@ -1,14 +1,33 @@
 # Flutter Sign-Up App using BLoC
 
-This is a Flutter project that demonstrates how to implement a sign-up form using the **BLoC (Business Logic Component)** pattern. It also includes a comparison with a non-BLoC version of the same form.
-
+This is a Flutter project that demonstrates how to implement a sign-up form using the **BLoC (Business Logic Component)** pattern.
 ## 📱 Screenshots
 
-> Add screenshots in the `assets/screenshots/` folder and display them below using Markdown image syntax.
+<table>
+  <tr>
+    <td align="center"><strong>Screen 1</strong><br>
+      <img width="250"  alt="Screenshot 2025-07-28 143544" src="https://github.com/user-attachments/assets/ad32a0fc-7f7a-4514-a038-869d4c8fd82f" />
+    </td>
+     <td align="center"><strong>Screen 2</strong><br>
+   <img width="250" alt="Screenshot 2025-07-28 144139" src="https://github.com/user-attachments/assets/3bd37fd3-a305-42eb-aad1-c8a1285a8051" />
+    </td>
+    <td align="center"><strong>Screen 3</strong><br>
+     <img width="250" alt="Screenshot 2025-07-28 143651" src="https://github.com/user-attachments/assets/9555e5e4-d475-4aa1-a95d-20522a4ecc5a" />
+    </td>
+   
+  </tr>
+</table>
 
-| Without BLoC | With BLoC |
-|--------------|-----------|
-| ![No BLoC](assets/screenshots/sign_up_without_bloc.png) | ![With BLoC](assets/screenshots/sign_up_with_bloc.png) |
+<table>
+  <tr>
+   <td align="center"><strong>Screen 4</strong><br>
+     <img width="250"  alt="Screenshot 2025-07-28 143827" src="https://github.com/user-attachments/assets/ef5c0cfe-cd43-4fa1-86d4-e25d4b3403fa" />
+    </td>
+       <td align="center"><strong>Screen 5</strong><br>
+      <img width="250" alt="Screenshot 2025-07-28 143846" src="https://github.com/user-attachments/assets/005de269-9eda-4522-b78f-c1963aef57c7" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -55,3 +74,10 @@ lib/
     ├── signup_bloc.dart            
     ├── signup_event.dart           
     └── signup_state.dart            
+
+
+
+
+
+
+
